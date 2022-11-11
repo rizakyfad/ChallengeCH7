@@ -8,7 +8,7 @@ BinarCH7
 - Menerapkan unit testing pada Aplikasi
 
 ## Criteria
-- Menerapkan Dependency Injection
-- Menambahkan chucker untuk mengecek data ke API secara realtime
-- Melakukan testing untuk pengujian aplikasi
-- Menerapkan buildFlavoring
+1. Mengintegrasikan project Android dengan Firebase.
+2. Melakukan analisa menggunakan Profiler dan membuat dokumentasinya.
+3. Melakukan testing untuk pengujian aplikasi.
+4. Menerapkan buildFlavoring.
