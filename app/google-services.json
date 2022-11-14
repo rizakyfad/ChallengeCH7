@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8843545890",
+    "firebase_url": "https://yaya-ec91c.firebaseio.com",
+    "project_id": "yaya-ec91c",
+    "storage_bucket": "yaya-ec91c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8843545890:android:c4b1cd1894c3d6ecd1297b",
+        "android_client_info": {
+          "package_name": "com.rizaki.challengech6Binar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8843545890-95ge728ni0mk8ng2oi1er0fhkj8rg37b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHvEzgaSQDMfczXzjBm_7Y9ozwQhyl35Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8843545890-95ge728ni0mk8ng2oi1er0fhkj8rg37b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
